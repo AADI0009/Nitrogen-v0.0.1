@@ -34,3 +34,5 @@ with open("Nitro Codes.txt") as file:
             print(f"*", end = "")   #It will print "*" if the nitro code won't be valid.
 
 print("\n\n\nYou have generated codes and checked it succesfuly, hope you got some valid ones")
+
+
